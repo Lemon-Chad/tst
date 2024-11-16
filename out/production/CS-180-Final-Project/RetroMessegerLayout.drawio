@@ -1,0 +1,53 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.4">
+  <diagram name="Page-1" id="EhVzjgOJ1KQS2mwi7Q6E">
+    <mxGraphModel dx="1137" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AfDVGkf8OvoHLByytMTE-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="500" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-5" value="&lt;div align=&quot;left&quot;&gt;Array of messageChains&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="150" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-6" value="&lt;div&gt;MessageChain title&lt;/div&gt;&lt;div&gt;made from LeftUser, RightUser&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfDVGkf8OvoHLByytMTE-7" target="AfDVGkf8OvoHLByytMTE-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750.0000000000002" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="710" y="270" />
+              <mxPoint x="710" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-7" value="&lt;div&gt;Mode&lt;/div&gt;&lt;div&gt;Swap&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="240" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-8" value="&lt;div&gt;Messages displayed or&lt;/div&gt;&lt;div&gt;User actions displayed&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-10" value="Text Box (Enter to send)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="600" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AfDVGkf8OvoHLByytMTE-11" target="AfDVGkf8OvoHLByytMTE-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="925" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-11" value="&lt;div&gt;Hit mode swap to&lt;/div&gt;&lt;div&gt;change from messages&lt;/div&gt;&lt;div&gt;to other actions&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="325" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-12" value="&lt;div&gt;1. Block/Unblock a user&lt;/div&gt;&lt;div&gt;2. Friend/Unfriend a user&lt;/div&gt;&lt;div&gt;3. Request a message chain&lt;br&gt;4. Delete a message&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="420" width="350" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="AfDVGkf8OvoHLByytMTE-14" value="(User actions)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="945" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
